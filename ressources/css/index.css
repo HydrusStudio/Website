@@ -7,13 +7,28 @@ body {
   color: #5a5a5a;
 }
 
+.thumbnail-name {
+  color: black;
+  font-weight: bold;
+  font-size: 25px;;
+}
+.thumbnail-link a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: black;
+}
 .navbar-brand {
   max-width: 60px;
 }
-
+.nav-link {
+  color: white!important;
+}
 .navbar-nav {
   font-size: 20px;
+  margin-left: auto;
 }
+.account-circle { 
+  color: white;
+ }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
