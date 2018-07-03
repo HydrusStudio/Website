@@ -12,7 +12,7 @@ body {
   font-weight: bold;
   font-size: 25px;;
 }
-.thumbnail-link a:link, a:visited, a:hover, a:active {
+.thumbnail-link a, a:link, a:visited, a:hover, a:active {
   text-decoration: none;
   color: black;
 }
