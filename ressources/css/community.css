@@ -14,7 +14,11 @@
     border-top-style: solid;
 }
 .container-top {
-  padding-top: 5%;
+  padding-top: 4%;
+}
+
+p {
+  text-align: justify;
 }
 @media (min-width: 768px) {
   .jumbotron {

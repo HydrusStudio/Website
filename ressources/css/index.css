@@ -29,7 +29,16 @@ body {
 .account-circle { 
   color: white;
  }
-
+.carousel {
+  padding-top: 4%;
+  max-width: 1080px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.card-align-center{
+  margin-right: auto;
+  margin-left: auto;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
