@@ -12,6 +12,9 @@ body {
   font-weight: bold;
   font-size: 25px;;
 }
+.twitter-header{
+  color: #00aced!important;
+}
 .thumbnail-link a, a:link, a:visited, a:hover, a:active {
   text-decoration: none;
   color: black;
